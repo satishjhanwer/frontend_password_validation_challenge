@@ -10,14 +10,14 @@
     "validate": "tsc --noEmit --checkJs"
   },
   "dependencies": {
-    "@biomejs/biome": "1.9.4",
-    "@types/react": "19.0.2",
-    "@types/react-dom": "19.0.2",
-    "@vitejs/plugin-react": "4.3.4",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "typescript": "5.7.2",
-    "vite": "6.0.6"
+    "@biomejs/biome": "2.1.1",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "@vitejs/plugin-react": "4.6.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "typescript": "5.8.3",
+    "vite": "7.0.5"
   },
   "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
 }
